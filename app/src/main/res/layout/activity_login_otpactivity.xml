@@ -87,6 +87,7 @@
                 android:padding="10dp"
                 android:layout_margin="10dp"
                 android:elevation="10dp"
+                android:inputType="number"
                 android:layout_weight="75"
                 android:maxLength="6"
                 android:textColor="@color/primary"
